@@ -536,7 +536,6 @@ body {
     transform: translateX(5px);
 }
 
-/* Bottom */
 .footer-bottom {
     text-align: center;
     margin-top: 30px;
@@ -544,9 +543,7 @@ body {
     font-size: 0.85rem;
 }
 
-/* =========================
-   MOBILE FOOTER
-   ========================= */
+
 @media screen and (max-width: 900px) {
 
     .footer-brand {
@@ -562,14 +559,12 @@ body {
 
     }
 
-    /* CONTENEDOR SOCIAL */
     .footer-social {
         display: flex;
         justify-content: center;
         margin: 0;
     }
 
-    /* ICONOS EN FILA */
     .footer-social a {
         display: inline-flex;
         align-items: center;
@@ -577,7 +572,6 @@ body {
         margin: 0 0.5em;
     }
 
-    /* OCULTA TEXTO SI LO HAY */
     .footer-social a span {
         display: none;
     }
