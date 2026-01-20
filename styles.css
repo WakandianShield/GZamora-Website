@@ -158,6 +158,59 @@ body {
     font-size: 1.2rem;
 }
 
+.acerca {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-info-main {
+    display: inline-block;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 3em;
+    color: #fff;
+    text-decoration: none;
+    text-align: justify;
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(8px); 
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.63); 
+    transition: all 0.3s ease;
+    flex-direction: column
+}
+
+.div-info-main:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.01);
+}
+
+.first-img {
+
+    width: 30vw;;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(8px); 
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.63); 
+    transition: all 0.3s ease;
+}
+
+
+
+.first-img:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.01);
+}
+
+
+
+
 
 @media screen and (max-width: 900px) {
     .hamburger {
@@ -219,6 +272,34 @@ body {
         left: 0;
         z-index: -1;
         object-fit: cover;
+    }
+
+    .acerca {
+        flex-wrap: wrap !important;
+    }
+
+    .div-info-main {
+        padding: 1em;
+        width: 90vw;
+        font-size: 1em;
+    }
+
+    .div-info-main h2 {
+        font-size: 1.5em;
+        margin: 1em 0;
+    }
+
+    .div-info-main p {
+        font-size: 1em;
+    }
+
+    .extra-text {
+        display: none;
+    }
+
+    .first-img {
+        margin: 2em 0;
+        width: 90vw;
     }
 
 
