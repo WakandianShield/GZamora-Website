@@ -26,7 +26,7 @@ and a structured presentation of personal and professional work.
 <h2 align="center">Live Demo</h2>
 
 <p align="center">
-You can visit the live website<a href="https://wakandianshield.github.io/GZamora-Website/"><b>here</b></a></p>
+You can visit the live website <a href="https://wakandianshield.github.io/GZamora-Website/"><b>here</b></a></p>
 
 <p align="center">
 <img width="70%" alt="Captura de pantalla 2026-02-28 195920" src="https://github.com/user-attachments/assets/00d63710-df84-46aa-9c3c-ca3c71398e16" />
