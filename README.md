@@ -26,10 +26,7 @@ and a structured presentation of personal and professional work.
 <h2 align="center">Live Demo</h2>
 
 <p align="center">
-You can visit the live website<a href="https://wakandianshield.github.io/GZamora-Website/">
-<b>here</b>
-</a>
-</p>
+You can visit the live website<a href="https://wakandianshield.github.io/GZamora-Website/"><b>here</b></a></p>
 
 <p align="center">
 <img width="70%" alt="Captura de pantalla 2026-02-28 195920" src="https://github.com/user-attachments/assets/00d63710-df84-46aa-9c3c-ca3c71398e16" />
@@ -73,13 +70,13 @@ GZamora-Website/
 <h2 align="center">Contact</h2>
 
 <p align="center">
-If you want to contact the owner of the website for feedback, collaborations, or professional inquiries,
-please use the official <a href="https://wakandianshield.github.io/GZamora-Website/contact.html">
-contact page
-</a> below.
+If you want to contact the owner of the website for collaborations or professional inquiries, please use the official <a href="https://wakandianshield.github.io/GZamora-Website/contact.html">
+contact page</a> below.
 </p>
+
 <br>
+
 <p align="center">
-If you want to give me feedback or share ideas,
+If you want to give me feedback or share ideas about the development of this project,
 you can contact me through my GitHub profile or social media.
 </p>
