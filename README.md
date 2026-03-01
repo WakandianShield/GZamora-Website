@@ -7,51 +7,79 @@
 </p>
 
 <p align="center">
-GZamora-Website is the official website of photographer <b>Gerardo Zamora</b>, showcasing his portfolio, contact information, and personal projects.
+GZamora-Website is the official portfolio website of photographer <b>Gerardo Zamora</b>.
 <br><br>
-This website was built using HTML, CSS, and JavaScript to create a responsive and interactive experience for visitors.
-<br><br>
-The goal of this project is to provide a professional online presence for Gerardo Zamora and display his photographic works.
+This website was built using HTML, CSS, and JavaScript to create a responsive and elegant experience
+focused on showcasing high-quality photographic work.
 </p>
 
-<h2 align="center">Structure</h2>
+<h2 align="center">Overview</h2>
 
 <p align="center">
+GZamora-Website is a professional portfolio designed to present Gerardo Zamora’s
+photography in a clean, minimalist, and visually immersive layout.
+<br><br>
+The project emphasizes visual storytelling, smooth navigation,
+and a structured presentation of personal and professional work.
+</p>
 
-The repository is organized as follows:
+<h2 align="center">Live Demo</h2>
+
+<p align="center">
+You can visit the live website<a href="https://wakandianshield.github.io/GZamora-Website/">
+<b>here</b>
+</a>
+</p>
+
+<p align="center">
+<img width="70%" alt="Captura de pantalla 2026-02-28 195920" src="https://github.com/user-attachments/assets/00d63710-df84-46aa-9c3c-ca3c71398e16" />
+</p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+HTML5 - Semantic structure and layout  
+<br>
+CSS3 - Styling and responsive design  
+<br>
+JavaScript - Interactive functionality  
+</p>
+
+<h2 align="center">Project Structure</h2>
 
 <pre>
 GZamora-Website/
-├── MEDIA/              # Photos and media files
-├── README.md           # This file
-├── aboutme.html        # About Me page
-├── contact.html        # Contact page
-├── index.html          # Home page
-├── portfolio.html      # Portfolio page
-├── script.js           # JavaScript functionality
-└── styles.css          # CSS styles
+├── MEDIA/
+│   ├── main-photos/
+│   └── PORTFOLIO/
+├── README.md
+├── aboutme.html
+├── contact.html
+├── index.html
+├── portfolio.html
+├── script.js
+└── styles.css
 </pre>
 
-</p>
+<h2 align="center">Features</h2>
 
-<h2 align="center">Technologies</h2>
-
-- HTML5
-- CSS3
-- JavaScript
-
-<h2 align="center">Demo</h2>
-
-<p align="center">
-You can see the live demo of the website <a href="https://wakandianshield.github.io/GZamora-Website/" target="_blank"><b>here</b></a>.
-</p>
+- Fully responsive design  
+- Organized photography portfolio gallery  
+- Dedicated "About Me" page  
+- Contact page for inquiries  
+- Clean and minimalist interface  
+- Fast loading static website  
 
 <h2 align="center">Contact</h2>
 
 <p align="center">
-For feedback or inquiries, you can contact Gerardo Zamora through the contact page on this website.
-<br><br>
-This project is a professional portfolio website to showcase the work of photographer Gerardo Zamora.
-<br><br>
-<b>Note:</b> The website is in Spanish as the main language.
+If you want to contact the owner of the website for feedback, collaborations, or professional inquiries,
+please use the official <a href="https://wakandianshield.github.io/GZamora-Website/contact.html">
+contact page
+</a> below.
+</p>
+<br>
+<p align="center">
+If you want to give me feedback or share ideas,
+you can contact me through my GitHub profile or social media.
 </p>
