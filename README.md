@@ -23,24 +23,21 @@ The project emphasizes visual storytelling, smooth navigation,
 and a structured presentation of personal and professional work.
 </p>
 
-<h2 align="center">Live Demo</h2>
+<h2 align="center">Features</h2>
 
-<p align="center">
-You can visit the live website <a href="https://wakandianshield.github.io/GZamora-Website/"><b>here</b></a></p>
-
-<p align="center">
-<img width="70%" alt="Captura de pantalla 2026-02-28 195920" src="https://github.com/user-attachments/assets/00d63710-df84-46aa-9c3c-ca3c71398e16" />
-</p>
+- Fully responsive design  
+- Organized photography portfolio gallery  
+- Dedicated "About Me" page  
+- Contact page for inquiries  
+- Clean and minimalist interface  
+- Fast loading static website
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-HTML5 - Semantic structure and layout  
-<br>
-CSS3 - Styling and responsive design  
-<br>
-JavaScript - Interactive functionality  
-</p>
+
+- HTML5 - Semantic structure and layout  
+- CSS3 - Styling and responsive design  
+- JavaScript - Interactive functionality  
 
 <h2 align="center">Project Structure</h2>
 
@@ -58,14 +55,15 @@ GZamora-Website/
 └── styles.css
 </pre>
 
-<h2 align="center">Features</h2>
+<h2 align="center">Live Demo</h2>
 
-- Fully responsive design  
-- Organized photography portfolio gallery  
-- Dedicated "About Me" page  
-- Contact page for inquiries  
-- Clean and minimalist interface  
-- Fast loading static website  
+<p align="center">
+You can visit the live website <a href="https://wakandianshield.github.io/GZamora-Website/"><b>here</b></a></p>
+
+<p align="center">
+<img width="70%" alt="Captura de pantalla 2026-02-28 195920" src="https://github.com/user-attachments/assets/00d63710-df84-46aa-9c3c-ca3c71398e16" />
+</p>
+
 
 <h2 align="center">Contact</h2>
 
